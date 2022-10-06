@@ -1,0 +1,3 @@
+C:/Users/DarkK/CLionProjects/Project 2 - Image Processing/cmake-build-debug/CMakeFiles/Image_Processing.dir
+C:/Users/DarkK/CLionProjects/Project 2 - Image Processing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DarkK/CLionProjects/Project 2 - Image Processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
